@@ -78,4 +78,4 @@ This project implements a Dynamic Convolutional Neural Network (CNN) architectur
 
 ## Contributors:
 
-- Pranav Rao(@pranavrao10)
+- Pranav Rao (@pranavrao10)
