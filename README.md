@@ -44,15 +44,15 @@ This project implements a Dynamic Convolutional Neural Network (CNN) architectur
 ### Here is how to run the project locally:
 
 1. Clone the repository:
-   git clone https://github.com/pranavrao10/dynamic-cnn-image-classification.git
-   cd dynamic-cnn-image-classification
+   - git clone https://github.com/pranavrao10/dynamic-cnn-image-classification.git
+   - cd dynamic-cnn-image-classification
 2. Install dependencies:
-   python -m venv env
-   source env/bin/activate
-   pip install -r requirements.txt
+   - python -m venv env
+   - source env/bin/activate
+   - pip install -r requirements.txt
 3. Run the notebook:
-   Open dynamic-cnn-image-classification.ipynb on Google Colab or locally with Jupyter Notebook.
-   Run notebook cells sequentially.
+   - Open dynamic-cnn-image-classification.ipynb on Google Colab or locally with Jupyter Notebook.
+   - Run notebook cells sequentially.
 
 ## Data
 
