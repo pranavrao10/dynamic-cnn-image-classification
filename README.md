@@ -5,7 +5,6 @@ This project implements a Dynamic Convolutional Neural Network (CNN) architectur
 ## Project Structure
 
 - `dynamic-cnn-image-classification.ipynb`: Main Jupyter Notebook containing the full implementation, training loop, and results.
-- `report.pdf`: Summary report detailing architecture choices, hyperparameters, and results.
 - `training_metrics.png`: Contains visualizations of training loss and accuracy over epochs.
 
 ## Key Features
