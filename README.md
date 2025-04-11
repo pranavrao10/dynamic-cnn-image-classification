@@ -63,7 +63,7 @@ This project implements a Dynamic Convolutional Neural Network (CNN) architectur
 
 ## Performance
 
-- Highest Test Accuracy: 90.32%
+- Highest Test Accuracy: 92.15%
 - Training Accuracy Progression: Clearly visualized improvements over epochs.
 - Batch-wise Loss Tracking: Detailed insights into training dynamics.
 
